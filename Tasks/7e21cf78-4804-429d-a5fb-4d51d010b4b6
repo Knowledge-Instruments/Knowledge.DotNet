@@ -1,0 +1,21 @@
+{
+  "Id": "7e21cf78-4804-429d-a5fb-4d51d010b4b6",
+  "Title": "Модификаторы доступа",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T20:50:50.346+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "b60bd7ad-8ce4-42ac-a119-4d3305bf9d01",
+    "ad556124-df11-49a9-9297-d5a35e5849fb"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

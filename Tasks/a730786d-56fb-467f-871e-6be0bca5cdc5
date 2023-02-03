@@ -1,0 +1,21 @@
+{
+  "Id": "a730786d-56fb-467f-871e-6be0bca5cdc5",
+  "Title": "Объявление переменных для ссылочных и значимых типов",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:55:34.299+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "c94fe75a-382d-46d0-ae47-15dc0794e5a2",
+    "dbf902ba-ee97-4f05-95fa-30df292f3ab5"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

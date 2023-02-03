@@ -1,0 +1,18 @@
+{
+  "Id": "ad556124-df11-49a9-9297-d5a35e5849fb",
+  "Title": "Virtual",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:56:42.106+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

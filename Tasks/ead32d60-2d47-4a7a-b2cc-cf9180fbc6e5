@@ -1,0 +1,20 @@
+{
+  "Id": "ead32d60-2d47-4a7a-b2cc-cf9180fbc6e5",
+  "Title": "Что такое цикл и какие задачи он решает",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:59:00.571+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "eda67d40-c63b-47d2-9725-793f46aa7558"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

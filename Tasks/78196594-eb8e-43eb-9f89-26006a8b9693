@@ -1,0 +1,20 @@
+{
+  "Id": "78196594-eb8e-43eb-9f89-26006a8b9693",
+  "Title": "Как запаковать в докер",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:51:43.327+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "fcbef705-37a2-4892-b2a7-ceba387b9475"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

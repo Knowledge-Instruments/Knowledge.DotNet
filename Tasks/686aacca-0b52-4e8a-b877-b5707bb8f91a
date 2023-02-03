@@ -1,0 +1,18 @@
+{
+  "Id": "686aacca-0b52-4e8a-b877-b5707bb8f91a",
+  "Title": ".Net Standard",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:44:17.618+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

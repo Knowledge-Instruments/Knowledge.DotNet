@@ -1,0 +1,18 @@
+{
+  "Id": "3b869ce3-be4d-432c-b75c-29957418918a",
+  "Title": "Документоориентированная база",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:15:01.337+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

@@ -1,0 +1,18 @@
+{
+  "Id": "bec22f13-f71c-4569-aa84-5de05b96b5b3",
+  "Title": "Основные методы LINQ и приемы работы",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:01:50.938+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

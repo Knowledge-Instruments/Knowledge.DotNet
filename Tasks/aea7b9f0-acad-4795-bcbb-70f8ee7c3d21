@@ -1,0 +1,20 @@
+{
+  "Id": "aea7b9f0-acad-4795-bcbb-70f8ee7c3d21",
+  "Title": "Что такое статический анализ кода",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:43:58.533+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "d3629d55-3a01-4d88-b642-6113fa6b344f"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

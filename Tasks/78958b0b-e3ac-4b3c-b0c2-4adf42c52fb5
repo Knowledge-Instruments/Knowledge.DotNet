@@ -1,0 +1,22 @@
+{
+  "Id": "78958b0b-e3ac-4b3c-b0c2-4adf42c52fb5",
+  "Title": "Зачем нужны методы и функции",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:23:44.080+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "8c0d9eaf-a42f-45dc-a39f-9b14516697f3",
+    "4a0fa41a-695d-4cb3-a3f6-7637a2a64c2d",
+    "69aac70b-bbb2-4536-8f75-da3fb41b0df6"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

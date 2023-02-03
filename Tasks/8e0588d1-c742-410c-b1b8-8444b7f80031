@@ -1,0 +1,25 @@
+{
+  "Id": "8e0588d1-c742-410c-b1b8-8444b7f80031",
+  "Title": "Варианты использования C#",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:25:14.091+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "2a24e543-fd54-4b1d-a5a7-9e45175cb7c9",
+    "6f0f625a-2a99-44d2-b36e-6d5b2c604959",
+    "df020f1b-87d5-409f-a67c-913477fa7b93",
+    "173d8e24-8907-4c1c-99db-840aad7d6cc8",
+    "88abe56a-fa28-4fce-9fa1-4d80b99b5a1b",
+    "b254bdec-5bbf-472f-ab3e-d4cfe02479b4"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

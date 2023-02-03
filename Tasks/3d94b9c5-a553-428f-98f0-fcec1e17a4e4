@@ -1,0 +1,21 @@
+{
+  "Id": "3d94b9c5-a553-428f-98f0-fcec1e17a4e4",
+  "Title": "Как объявлять переменные",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:55:06.599+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "3a10d6ca-f6f6-453f-a4ac-66fae12f2eae",
+    "a730786d-56fb-467f-871e-6be0bca5cdc5"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

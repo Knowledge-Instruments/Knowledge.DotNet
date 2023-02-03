@@ -1,0 +1,21 @@
+{
+  "Id": "52e0a73c-7463-4bce-b92c-573debcc17a1",
+  "Title": "Умение составлять вопросы для поиска в поисковых системах",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:46:27.777+00:00",
+  "UnlockedDateTime": "2023-02-03T10:46:27.777+00:00",
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "4065f42f-f530-4f49-b7b6-7c30f158c75e",
+    "55c444f0-33e1-448d-ae3a-ac9c2f1c7483"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

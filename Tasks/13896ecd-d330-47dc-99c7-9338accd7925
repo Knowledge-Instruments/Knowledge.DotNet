@@ -1,0 +1,21 @@
+{
+  "Id": "13896ecd-d330-47dc-99c7-9338accd7925",
+  "Title": "Приведение типов",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:57:40.569+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "5f7fa652-d135-40b9-bcb3-3e96a3077bc4",
+    "1f10c386-2826-4933-8302-acd4c0a7687b"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

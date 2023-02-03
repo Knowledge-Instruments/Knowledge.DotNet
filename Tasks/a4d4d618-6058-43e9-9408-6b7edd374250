@@ -1,0 +1,18 @@
+{
+  "Id": "a4d4d618-6058-43e9-9408-6b7edd374250",
+  "Title": "Статические и нестатические классы",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T12:51:24.503+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

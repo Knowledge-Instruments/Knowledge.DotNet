@@ -1,0 +1,20 @@
+{
+  "Id": "6f1d2f6c-2ebf-436e-93eb-4f44c8def7d6",
+  "Title": "Работа с Dictionary",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:02:22.924+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "120c07ef-6326-4f12-a010-b573eabc1f86"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

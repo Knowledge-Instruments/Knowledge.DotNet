@@ -1,0 +1,26 @@
+{
+  "Id": "13dc790e-3a1a-4ff0-b58e-cc6a7087432f",
+  "Title": "Что из себя представляет C#",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:44:31.699+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "36f124d2-73af-4ff9-9372-7844051d90d6",
+    "801beeee-ab1f-4808-ab94-de298adde0d1",
+    "3d19c011-9790-4a1e-bda5-17e80f1267bd",
+    "37d1d26d-e7e5-4ff0-8f68-ef340af4c730",
+    "b623581f-1329-4625-ae2d-8ae0c77f94d6",
+    "78958b0b-e3ac-4b3c-b0c2-4adf42c52fb5",
+    "8e0588d1-c742-410c-b1b8-8444b7f80031"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

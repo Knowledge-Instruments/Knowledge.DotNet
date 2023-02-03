@@ -1,0 +1,22 @@
+{
+  "Id": "c4c0c805-b7c7-4ab3-bbfc-07f112b6dcd2",
+  "Title": "Основные типы данных которые есть в языке C#",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:54:21.978+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "6130d903-db11-431b-bc2a-a4903686f9fd",
+    "04bbc83f-b827-4717-82d8-f2125dad855d",
+    "69aac70b-bbb2-4536-8f75-da3fb41b0df6"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

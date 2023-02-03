@@ -1,0 +1,22 @@
+{
+  "Id": "386557c0-08bd-47e8-85f3-23baa9cfc6b2",
+  "Title": "Умение настраивать IDE под свои особенности",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:48:36.985+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "14c87fb6-eb2f-4095-99f9-31128587c59a",
+    "c60bc3cf-a306-4e58-9c06-d206acde53d8",
+    "b8e8796a-61bd-41b6-8a83-78b220495552"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

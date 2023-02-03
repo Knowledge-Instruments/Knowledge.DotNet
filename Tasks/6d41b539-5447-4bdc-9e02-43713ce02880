@@ -1,0 +1,21 @@
+{
+  "Id": "6d41b539-5447-4bdc-9e02-43713ce02880",
+  "Title": "Что такое лямбда функции",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:20:12.446+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "27fc16e2-c564-4a70-ad3a-6d14e4c1a818",
+    "3d6b53d4-bb92-4776-8f8d-a19b233b7e18"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

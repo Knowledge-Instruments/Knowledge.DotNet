@@ -1,0 +1,20 @@
+{
+  "Id": "6130d903-db11-431b-bc2a-a4903686f9fd",
+  "Title": "Почему важно выбирать правильный тип данных",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:54:30.279+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "3d94b9c5-a553-428f-98f0-fcec1e17a4e4"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

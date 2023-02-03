@@ -1,0 +1,18 @@
+{
+  "Id": "95c6d827-630a-4209-82e6-6363d23b71aa",
+  "Title": "Почему тестирование в реальных условиях отличается от тестирования на локальном компьютере",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:43:51.172+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

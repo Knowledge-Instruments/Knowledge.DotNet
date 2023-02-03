@@ -1,0 +1,23 @@
+{
+  "Id": "3b706c9e-576d-427a-9690-6fdfd4f2e9ad",
+  "Title": "Что из себя представляет платформа .Net",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:39:06.446+00:00",
+  "UnlockedDateTime": "2023-02-03T10:39:06.462+00:00",
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "adf1d46d-e2e3-4883-a571-519ee80d33a4",
+    "686aacca-0b52-4e8a-b877-b5707bb8f91a",
+    "aa4aff8f-2461-4b1d-99fa-654d49301614",
+    "13dc790e-3a1a-4ff0-b58e-cc6a7087432f"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

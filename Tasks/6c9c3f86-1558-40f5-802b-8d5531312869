@@ -1,0 +1,20 @@
+{
+  "Id": "6c9c3f86-1558-40f5-802b-8d5531312869",
+  "Title": "Что такое Linq и где применяется",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:01:46.950+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "bec22f13-f71c-4569-aa84-5de05b96b5b3"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

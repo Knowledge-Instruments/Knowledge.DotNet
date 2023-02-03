@@ -1,0 +1,21 @@
+{
+  "Id": "8596eb32-b865-42e7-b43b-05c7faa54347",
+  "Title": "Основные понятия юнит тестинга",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:42:20.673+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "63b277d3-a97a-48f9-a582-09fdb7368f4f",
+    "502dee19-4a29-4373-b5ef-d4995b4e15c0"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

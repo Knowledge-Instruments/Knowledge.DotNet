@@ -1,0 +1,20 @@
+{
+  "Id": "aa4aff8f-2461-4b1d-99fa-654d49301614",
+  "Title": "Что такое кросс платформенность и как она достигается",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:44:22.402+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "9efbab03-aca5-4615-ab23-12b953b148dd"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

@@ -1,0 +1,20 @@
+{
+  "Id": "a2275cc8-652d-4a79-8353-181a2cfbc60d",
+  "Title": "Серверное Fullstack  приложение",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:38:15.792+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "c45561b2-529f-420e-b8eb-2fd5b98820b6"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

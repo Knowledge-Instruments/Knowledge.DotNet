@@ -1,0 +1,21 @@
+{
+  "Id": "347937cb-77ea-469e-8508-4970096072c9",
+  "Title": "Интерфейсы",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T20:48:33.321+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "b623581f-1329-4625-ae2d-8ae0c77f94d6",
+    "e4d0ba57-07d6-4194-8dd9-8e4c199bc42a"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

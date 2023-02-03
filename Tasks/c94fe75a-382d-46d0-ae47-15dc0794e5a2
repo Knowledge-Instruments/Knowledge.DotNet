@@ -1,0 +1,23 @@
+{
+  "Id": "c94fe75a-382d-46d0-ae47-15dc0794e5a2",
+  "Title": "В чём отличие ссылочных и значимых типов при присвоении значения",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:57:18.527+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "69e24a9f-a4d2-48d3-b90b-5ba22e50131f",
+    "13896ecd-d330-47dc-99c7-9338accd7925",
+    "253bd3e1-3059-4879-bff1-01334d2f4aa4",
+    "47e7b2c8-2b15-4a90-bd98-cb9ab93e5a68"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

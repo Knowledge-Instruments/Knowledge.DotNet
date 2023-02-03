@@ -1,0 +1,20 @@
+{
+  "Id": "e4d0ba57-07d6-4194-8dd9-8e4c199bc42a",
+  "Title": "Что такое паттерны",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T20:49:34.113+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "513096f7-acd0-4417-8a1a-a43253a92149"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

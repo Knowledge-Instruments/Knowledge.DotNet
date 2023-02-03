@@ -1,0 +1,20 @@
+{
+  "Id": "b8e8796a-61bd-41b6-8a83-78b220495552",
+  "Title": "Дебаг и отладка приложения",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:49:19.974+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "552b6dc1-a4f5-46be-9259-9d17bbc9d8ce"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

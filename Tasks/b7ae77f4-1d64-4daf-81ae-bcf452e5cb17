@@ -1,0 +1,18 @@
+{
+  "Id": "b7ae77f4-1d64-4daf-81ae-bcf452e5cb17",
+  "Title": "Чтение ошибок и Exception сообщений с пониманием того что нужно исправить",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:49:53.073+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

@@ -1,0 +1,20 @@
+{
+  "Id": "37d1d26d-e7e5-4ff0-8f68-ef340af4c730",
+  "Title": "Что такое строго типизированный язык",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:53:45.213+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "d440218a-aa80-4dfc-904a-1b8cb1ef61e0"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

@@ -1,0 +1,20 @@
+{
+  "Id": "55c444f0-33e1-448d-ae3a-ac9c2f1c7483",
+  "Title": "Умение читать (с переводчиком) и понимать основной смысл ответов",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:46:40.522+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "fed36eb7-96e9-4c8a-bfb6-f5ed3a0cf84e"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

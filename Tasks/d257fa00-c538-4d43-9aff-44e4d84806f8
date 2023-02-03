@@ -1,0 +1,20 @@
+{
+  "Id": "d257fa00-c538-4d43-9aff-44e4d84806f8",
+  "Title": "Основные компоненты которые нужно поставить для работы",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:48:30.712+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "386557c0-08bd-47e8-85f3-23baa9cfc6b2"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

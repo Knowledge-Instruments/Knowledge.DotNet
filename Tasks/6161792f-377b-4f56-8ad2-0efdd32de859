@@ -1,0 +1,20 @@
+{
+  "Id": "6161792f-377b-4f56-8ad2-0efdd32de859",
+  "Title": "Серверное Backend приложение",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:38:09.112+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "a2275cc8-652d-4a79-8353-181a2cfbc60d"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

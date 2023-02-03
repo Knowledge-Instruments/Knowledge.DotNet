@@ -1,0 +1,18 @@
+{
+  "Id": "d602cec1-baa5-4c78-8dcc-3db936a128f4",
+  "Title": "Научится кооперироваться и делить крупные задачи на мелкие подзадачи",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:44:39.841+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

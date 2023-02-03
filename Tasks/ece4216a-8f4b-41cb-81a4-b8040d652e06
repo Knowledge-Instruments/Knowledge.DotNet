@@ -1,0 +1,24 @@
+{
+  "Id": "ece4216a-8f4b-41cb-81a4-b8040d652e06",
+  "Title": "Что такое объект, класс",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T12:50:43.690+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "04bbc83f-b827-4717-82d8-f2125dad855d",
+    "a4d4d618-6058-43e9-9408-6b7edd374250",
+    "030f9532-8068-4652-a540-c3a0febc210f",
+    "574fed4b-12d6-4567-b331-245b44c97400",
+    "580bdc27-0823-4afb-8c86-2068e8cbaab9"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

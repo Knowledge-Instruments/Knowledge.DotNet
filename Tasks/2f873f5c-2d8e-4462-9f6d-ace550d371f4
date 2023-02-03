@@ -1,0 +1,21 @@
+{
+  "Id": "2f873f5c-2d8e-4462-9f6d-ace550d371f4",
+  "Title": "Метаданные",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:46:33.699+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "63e30048-1fd6-4ec7-a586-f8d3b9e8056d",
+    "21cdaca9-e18e-4d0d-a402-4ecaecbebf2b"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

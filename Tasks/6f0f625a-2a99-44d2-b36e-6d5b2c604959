@@ -1,0 +1,21 @@
+{
+  "Id": "6f0f625a-2a99-44d2-b36e-6d5b2c604959",
+  "Title": "Серверное приложение",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:37:10.504+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "6161792f-377b-4f56-8ad2-0efdd32de859",
+    "605f5bf6-dff7-48b3-9ff9-66bcd22e42d6"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

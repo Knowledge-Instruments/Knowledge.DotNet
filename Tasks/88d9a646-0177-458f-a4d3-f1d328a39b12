@@ -1,0 +1,20 @@
+{
+  "Id": "88d9a646-0177-458f-a4d3-f1d328a39b12",
+  "Title": "Расширенное использование инструментов отладки",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:49:34.375+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "846eccd8-0b70-4c0d-96d3-22398ffdd78e"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

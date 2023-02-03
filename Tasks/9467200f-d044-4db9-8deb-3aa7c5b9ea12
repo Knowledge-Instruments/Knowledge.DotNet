@@ -1,0 +1,22 @@
+{
+  "Id": "9467200f-d044-4db9-8deb-3aa7c5b9ea12",
+  "Title": "Типы баз данных (SQL и NoSQL)",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:14:15.508+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "27c56949-eb50-430e-ae16-7b78d417af09",
+    "3b869ce3-be4d-432c-b75c-29957418918a",
+    "dc9aecb1-630b-4f2e-a8f2-1b856e6fc4ce"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

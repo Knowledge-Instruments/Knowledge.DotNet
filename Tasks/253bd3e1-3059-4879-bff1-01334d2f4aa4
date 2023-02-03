@@ -1,0 +1,21 @@
+{
+  "Id": "253bd3e1-3059-4879-bff1-01334d2f4aa4",
+  "Title": "Что такое алгоритм",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:58:10.789+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "cb3fec0d-8b6d-4c3f-9eb3-a72788740787",
+    "bed60e18-ebe4-4208-ba34-2be1593ae76e"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

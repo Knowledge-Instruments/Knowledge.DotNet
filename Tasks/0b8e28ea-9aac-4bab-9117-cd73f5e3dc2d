@@ -1,0 +1,21 @@
+{
+  "Id": "0b8e28ea-9aac-4bab-9117-cd73f5e3dc2d",
+  "Title": "Понятие потока и процесса",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:08:33.827+00:00",
+  "UnlockedDateTime": "2023-02-03T11:08:33.828+00:00",
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "a57947ae-6a9f-428d-9827-68ba376d3d7a",
+    "423b6ff2-8954-4ba4-8c45-9cafe0642b5a"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

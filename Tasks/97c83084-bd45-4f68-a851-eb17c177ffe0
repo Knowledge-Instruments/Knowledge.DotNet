@@ -1,0 +1,20 @@
+{
+  "Id": "97c83084-bd45-4f68-a851-eb17c177ffe0",
+  "Title": "Запись и считывание информации по средствам Stream",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:16:53.975+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "55ef7d29-b585-4dfc-82ef-e29758692b73"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

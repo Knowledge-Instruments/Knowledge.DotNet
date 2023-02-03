@@ -1,0 +1,20 @@
+{
+  "Id": "801beeee-ab1f-4808-ab94-de298adde0d1",
+  "Title": "Что такое IDE и зачем она нужна",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:48:14.886+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "d257fa00-c538-4d43-9aff-44e4d84806f8"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

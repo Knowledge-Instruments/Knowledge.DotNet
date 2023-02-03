@@ -1,0 +1,21 @@
+{
+  "Id": "0f32cddd-453c-4999-8ed3-9cdf8203325e",
+  "Title": "Хостинг данных",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:15:24.660+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "645c4e56-037b-44d0-8c1c-b5882ce6d7d9",
+    "63fe38c6-05ff-4dfd-a2bb-e7e01bd4094d"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

@@ -1,0 +1,25 @@
+{
+  "Id": "3bba1111-a765-4e74-8eea-208264e07e35",
+  "Title": "Научиться работать в команде и под руководством тим-лида",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:40:18.790+00:00",
+  "UnlockedDateTime": "2023-02-03T11:40:18.791+00:00",
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "2d8ef996-eebc-4a4f-aeb6-98bcf6e2f899",
+    "6024f279-2eb2-4b4a-8f52-2458eeba1fec",
+    "d602cec1-baa5-4c78-8dcc-3db936a128f4",
+    "3e0db01e-30f4-433c-99bb-9e545dcf8b7f",
+    "da3405ec-a6e2-4a1e-962f-02339265e682",
+    "be7d6412-0350-4399-9682-da613cc860f4"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

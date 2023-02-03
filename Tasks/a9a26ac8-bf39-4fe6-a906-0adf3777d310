@@ -1,0 +1,20 @@
+{
+  "Id": "a9a26ac8-bf39-4fe6-a906-0adf3777d310",
+  "Title": "Основные понятия Docker",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:51:36.406+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "78196594-eb8e-43eb-9f89-26006a8b9693"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

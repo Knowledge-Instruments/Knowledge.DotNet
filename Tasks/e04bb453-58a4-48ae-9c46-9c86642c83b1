@@ -1,0 +1,20 @@
+{
+  "Id": "e04bb453-58a4-48ae-9c46-9c86642c83b1",
+  "Title": "Поток управления программы",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:51:10.139+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "b8e8796a-61bd-41b6-8a83-78b220495552"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

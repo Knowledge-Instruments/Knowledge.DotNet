@@ -1,0 +1,23 @@
+{
+  "Id": "b623581f-1329-4625-ae2d-8ae0c77f94d6",
+  "Title": "Интерфейсы C#",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:21:20.463+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "59e89843-b6f4-4adb-bbd1-a16761d61e3a",
+    "75fb4a46-b293-4931-914a-d2a21f72789b",
+    "120c07ef-6326-4f12-a010-b573eabc1f86",
+    "3d7b2a77-3f50-4311-813c-e49802156c10"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

@@ -1,0 +1,22 @@
+{
+  "Id": "b254bdec-5bbf-472f-ab3e-d4cfe02479b4",
+  "Title": "Проект тестов",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:39:50.751+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "35111737-4614-4f00-b895-265e91d7e640",
+    "8596eb32-b865-42e7-b43b-05c7faa54347",
+    "ff381bb8-0f28-4589-b644-96416d492a40"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

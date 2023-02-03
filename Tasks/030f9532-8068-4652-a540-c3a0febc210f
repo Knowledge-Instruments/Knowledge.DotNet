@@ -1,0 +1,22 @@
+{
+  "Id": "030f9532-8068-4652-a540-c3a0febc210f",
+  "Title": "Наследование",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T20:44:26.188+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "df5625e9-0420-4a17-8181-7caeb808c63b",
+    "347937cb-77ea-469e-8508-4970096072c9",
+    "95735d7d-1884-4cce-b4f9-36b9992260cd"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

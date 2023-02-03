@@ -1,0 +1,23 @@
+{
+  "Id": "0af28fda-bbba-4969-9189-7d8b319ff7ad",
+  "Title": "Виды тестирования",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:40:30.784+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "b254bdec-5bbf-472f-ab3e-d4cfe02479b4",
+    "05b9a6f0-2e04-4a9f-bd20-9999b6028009",
+    "bfbc99d3-ed89-4d3a-abd9-07fd43614187",
+    "aea7b9f0-acad-4795-bcbb-70f8ee7c3d21"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

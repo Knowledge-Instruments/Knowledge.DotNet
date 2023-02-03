@@ -1,0 +1,18 @@
+{
+  "Id": "580bdc27-0823-4afb-8c86-2068e8cbaab9",
+  "Title": "Полиморфизм",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T20:51:17.732+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

@@ -1,0 +1,21 @@
+{
+  "Id": "9f414186-9bca-4915-9bf5-534a6a8bdb62",
+  "Title": "Базовые возможности работы с файлами",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:16:46.606+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "97c83084-bd45-4f68-a851-eb17c177ffe0",
+    "8efa179a-5ffe-4b30-b5d7-a5265a1bffa9"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

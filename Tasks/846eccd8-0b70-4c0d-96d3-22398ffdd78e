@@ -1,0 +1,20 @@
+{
+  "Id": "846eccd8-0b70-4c0d-96d3-22398ffdd78e",
+  "Title": "Что такое Exceptions",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:49:40.281+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "be42200b-da7a-468e-ad9a-afe1898e9b7e"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

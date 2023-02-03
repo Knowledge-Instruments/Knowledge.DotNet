@@ -1,0 +1,20 @@
+{
+  "Id": "d440218a-aa80-4dfc-904a-1b8cb1ef61e0",
+  "Title": "Строгая типизация на конкретных примерах",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:54:18.289+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "c4c0c805-b7c7-4ab3-bbfc-07f112b6dcd2"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

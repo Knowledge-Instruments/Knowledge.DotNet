@@ -1,0 +1,21 @@
+{
+  "Id": "04bbc83f-b827-4717-82d8-f2125dad855d",
+  "Title": "Ссылочные и значимые типы данных",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:54:47.392+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "54005344-7ff8-4f34-a9aa-a1bbb1d2a76e",
+    "a730786d-56fb-467f-871e-6be0bca5cdc5"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

@@ -1,0 +1,21 @@
+{
+  "Id": "3d7b2a77-3f50-4311-813c-e49802156c10",
+  "Title": "Работа с интефейсом IEnumerable",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:01:31.277+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "6c9c3f86-1558-40f5-802b-8d5531312869",
+    "27c56949-eb50-430e-ae16-7b78d417af09"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

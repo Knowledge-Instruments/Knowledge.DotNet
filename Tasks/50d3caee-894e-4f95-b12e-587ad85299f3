@@ -1,0 +1,21 @@
+{
+  "Id": "50d3caee-894e-4f95-b12e-587ad85299f3",
+  "Title": "Понятие пакетов",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:52:12.682+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "f37b7245-7095-4c52-9ad3-9b0c4ffd4db7",
+    "39e1d64e-4f09-41e4-b5ef-9c608d34296e"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

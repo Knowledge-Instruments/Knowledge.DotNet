@@ -1,0 +1,20 @@
+{
+  "Id": "df020f1b-87d5-409f-a67c-913477fa7b93",
+  "Title": "Библиотека для переиспользования",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:38:43.731+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "50d3caee-894e-4f95-b12e-587ad85299f3"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

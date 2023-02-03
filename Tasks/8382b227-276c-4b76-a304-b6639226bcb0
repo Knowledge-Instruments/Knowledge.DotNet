@@ -1,0 +1,20 @@
+{
+  "Id": "8382b227-276c-4b76-a304-b6639226bcb0",
+  "Title": "Работа со стандартными коллекциями в C#",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:01:08.492+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "3d7b2a77-3f50-4311-813c-e49802156c10"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

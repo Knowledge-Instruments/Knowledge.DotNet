@@ -1,0 +1,23 @@
+{
+  "Id": "2a24e543-fd54-4b1d-a5a7-9e45175cb7c9",
+  "Title": "Клиентское приложение",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:25:30.748+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "d9e9bebb-cd8f-4f76-8240-86220b7eea9e",
+    "ec05ea74-d1a4-4475-89d3-897e1bd6da8d",
+    "fae87ed1-2d2f-4204-955c-fe0d32a4ec87",
+    "cb3f12a2-199a-4156-bf3d-fd76f3f2b24e"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

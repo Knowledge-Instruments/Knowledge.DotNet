@@ -1,0 +1,20 @@
+{
+  "Id": "1c9d0743-04d1-4144-84be-c8145fb3f7c9",
+  "Title": "Что такое среда исполнения",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:46:11.932+00:00",
+  "UnlockedDateTime": "2023-02-03T11:46:11.933+00:00",
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "3467f33a-b0f6-420f-827c-96bf9e89338f"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

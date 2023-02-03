@@ -1,0 +1,20 @@
+{
+  "Id": "2d8ef996-eebc-4a4f-aeb6-98bcf6e2f899",
+  "Title": "Почему тестирование необходимо в крупных проектах",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:40:25.664+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "0af28fda-bbba-4969-9189-7d8b319ff7ad"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

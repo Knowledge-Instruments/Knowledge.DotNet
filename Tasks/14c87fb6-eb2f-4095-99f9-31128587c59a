@@ -1,0 +1,18 @@
+{
+  "Id": "14c87fb6-eb2f-4095-99f9-31128587c59a",
+  "Title": "Умение читать и использовать подсказки рабочей среды на Английском без переводчика",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:47:48.354+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

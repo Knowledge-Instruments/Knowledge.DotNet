@@ -1,0 +1,22 @@
+{
+  "Id": "3d19c011-9790-4a1e-bda5-17e80f1267bd",
+  "Title": "Основные понятия сборки приложений",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:50:32.494+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "f60b0b37-c46c-44c5-b215-9fc828c2026b",
+    "a9a26ac8-bf39-4fe6-a906-0adf3777d310",
+    "50d3caee-894e-4f95-b12e-587ad85299f3"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

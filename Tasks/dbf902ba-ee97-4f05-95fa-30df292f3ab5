@@ -1,0 +1,23 @@
+{
+  "Id": "dbf902ba-ee97-4f05-95fa-30df292f3ab5",
+  "Title": "Что такое структуры данных",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:00:55.632+00:00",
+  "UnlockedDateTime": null,
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "8382b227-276c-4b76-a304-b6639226bcb0",
+    "6f1d2f6c-2ebf-436e-93eb-4f44c8def7d6",
+    "453af363-e9e7-4fc6-94c1-8b95cb75d946",
+    "9f414186-9bca-4915-9bf5-534a6a8bdb62"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

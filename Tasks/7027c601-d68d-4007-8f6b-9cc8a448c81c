@@ -1,0 +1,21 @@
+{
+  "Id": "7027c601-d68d-4007-8f6b-9cc8a448c81c",
+  "Title": "Основы сетевых протоколов",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T11:14:00.956+00:00",
+  "UnlockedDateTime": "2023-02-03T11:14:00.956+00:00",
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "0f488d48-3192-4f45-b326-0238169c1fb9",
+    "a0da5c82-b8f6-4eaa-a358-d48492f1458e"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}

@@ -1,0 +1,20 @@
+{
+  "Id": "04deb5ff-4773-4ba2-968d-7993661ae137",
+  "Title": "Разные парадигмы программирования",
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T12:50:29.873+00:00",
+  "UnlockedDateTime": "2023-02-03T12:50:29.875+00:00",
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [
+    "4849c282-5c7b-4df5-8dfb-05e766c8568f"
+  ],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}
