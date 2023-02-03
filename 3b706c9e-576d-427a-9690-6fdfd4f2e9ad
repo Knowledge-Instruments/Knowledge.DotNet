@@ -1,0 +1,18 @@
+{
+  "Id": "3b706c9e-576d-427a-9690-6fdfd4f2e9ad",
+  "Title": null,
+  "Description": null,
+  "IsCompleted": false,
+  "CreatedDateTime": "2023-02-03T10:39:06.446+00:00",
+  "UnlockedDateTime": "2023-02-03T10:39:06.462+00:00",
+  "CompletedDateTime": null,
+  "ArchiveDateTime": null,
+  "PlannedBeginDateTime": null,
+  "PlannedEndDateTime": null,
+  "PlannedDuration": null,
+  "ContainsTasks": [],
+  "BlocksTasks": [],
+  "Repeater": null,
+  "Importance": 0,
+  "Wanted": false
+}
